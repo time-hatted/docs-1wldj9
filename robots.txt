@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-c243r2.pulaucuan.sbs/sitemap.xml
